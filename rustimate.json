@@ -1,0 +1,10 @@
+{
+    "version": "0.1.0",
+    "description": "CLI animation engine and RSL for technical concepts.",
+    "homepage": "https://github.com/rustimate/rustimate",
+    "license": "MIT",
+    "url": "https://github.com/rustimate/rustimate/releases/download/v0.1.0/rustimate.exe",
+    "hash": "PASTE_YOUR_SHA256_STRING_HERE",
+    "bin": "rustimate.exe",
+    "checkver": "github"
+}
